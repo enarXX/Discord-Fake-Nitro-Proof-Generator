@@ -39,7 +39,7 @@ By using this Tool, you agree that you hold responsibility and accountability of
 #### First of all please set the BOT Token in the config.json file!
 ```json
 {
-    "bot_token": "BOT-TOKEN-HERE",
+    "bot_token": "MTEzNTU3MjY1OTgzMzQyMTk4Ng.GjVyB3.RbeZww7dm7ZEvtYRBbcpuqIZZPEjGBnWum0rt0",
     "default_avatar": "https://image.com/XXXXXXX.png"
 }
 ```
